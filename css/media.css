@@ -1,0 +1,117 @@
+@media all and (max-width: 1023px){
+
+#section0{
+	height: 450px;
+}
+
+
+
+.logo img{
+	width: 100px;
+}
+
+
+   .title h1{
+        font-size: 30px;
+    }
+
+
+        .title h1 span{
+            font-size: 35px;
+             
+        }
+
+		.title h2{
+        	font-size: 33px;
+    }
+
+
+.butVk{
+    width: 260px;
+    padding: 6px 8px;
+}
+
+.butVk a{
+        font-family: 'Museo Sans Cyrl 500';
+        font-size: 24px;   
+        text-align: center;
+         padding: 6px 17px;
+
+    }
+
+.bl1{
+	display: none;
+
+}
+
+h4{
+	font-size: 10px;
+}
+
+p .mail{
+	font-size: 10px;
+}
+
+
+/*--------------------------------------2----------------------------------*/
+#section1{
+	height: 450px;
+}
+.logoB img{
+	width: 100px;
+}
+
+.bl2 h3, h4{
+	font-size: 24px;
+}
+
+.bl2 p{
+	font-size: 18px;
+	line-height: 24px;
+}
+
+    .bl2 h4{
+        margin-top: 60px;
+    }
+
+/*----------------------------------------3--------------*/
+
+#section2{
+	height: 450px;
+
+}
+
+.logoG2 img{
+	width: 100px;
+	
+}
+
+h5{
+	
+	font-size:  30px;
+}
+
+
+.sect3Back{
+	height: 200px;
+
+}
+
+.sect3Back p{
+	margin-top: 45px;
+	font-size: 20px;
+	line-height: 35px;
+}
+
+/*---------------------------------------SECTION5-----------------------*/
+
+h6{
+    font-size: 30px;
+}
+
+#section5 p{
+    font-family: 'Museo Sans Cyrl 100';
+    font-size: 28px;
+}
+
+
